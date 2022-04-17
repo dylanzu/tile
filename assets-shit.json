@@ -5,16 +5,16 @@
     {"name": "SpunchBop", "startTile": 123,  "tiles":[123, 123, 123, 124, 125, 124], "delay": 4},
     {"name": "run", "startTile": 842, "tiles":[842, 30], "delay": 5},
     {"name": "run2", "startTile": 843, "tiles":[843, 30], "delay": 5},
-    {"name": "scaredshake", "startTile": 921, "tiles":[921, 30], "delay": 13},
-    {"name": "scaredshake2", "startTile": 922, "tiles":[922, 923], "delay": 13},
-    {"name": "scaredshake3", "startTile": 899, "tiles":[889, 890], "delay": 13},
-    {"name": "idle", "startTile": 823, "tiles":[823, 824], "delay": 6},
-    {"name": "Static1", "startTile": 673, "tiles":[673,675,677,676,678,674,679], "delay": 0},
-    {"name": "Static2", "startTile": 674, "tiles":[673,675,677,676,678,674,679], "delay": 0},
-    {"name": "Static3", "startTile": 675, "tiles":[673,675,677,676,678,674,679], "delay": 0},
-    {"name": "Static4", "startTile": 676, "tiles":[673,675,677,676,678,674,679], "delay": 0},
-    {"name": "Static5", "startTile": 677, "tiles":[673,675,677,676,678,674,679], "delay": 0},
-    {"name": "Static6", "startTile": 678, "tiles":[673,675,677,676,678,674,679], "delay": 0},
-    {"name": "Static7", "startTile": 679, "tiles":[673,675,677,676,678,674,679], "delay": 0}
+    {"name": "scaredshake", "startTile": 921, "tiles":[921, 30], "delay": 3},
+    {"name": "scaredshake2", "startTile": 922, "tiles":[922, 923], "delay": 3},
+    {"name": "scaredshake3", "startTile": 899, "tiles":[889, 890], "delay": 3},
+    {"name": "idle", "startTile": 790, "tiles":[790, 791], "delay": 6},
+    {"name": "Static1", "startTile": 673, "tiles":[673,675,677,676,678,674,679], "delay": 1},
+    {"name": "Static2", "startTile": 674, "tiles":[674,673,675,677,676,678,679], "delay": 1},
+    {"name": "Static3", "startTile": 675, "tiles":[675,677,673,676,678,674,679], "delay": 1},
+    {"name": "Static4", "startTile": 676, "tiles":[676,673,675,677,678,674,679], "delay": 1},
+    {"name": "Static5", "startTile": 677, "tiles":[677,679,673,675,676,678,674], "delay": 1},
+    {"name": "Static6", "startTile": 678, "tiles":[678,673,675,677,676,674,679], "delay": 1},
+    {"name": "Static7", "startTile": 679, "tiles":[679,675,677,676,678,674,673], "delay": 1}
   ]
 }
