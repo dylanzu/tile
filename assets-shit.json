@@ -1,0 +1,20 @@
+{
+  "tileAnim":[
+    {"name": "mysteryBox", "startTile": 24,  "tiles":[24, 24, 24, 25, 26, 25], "delay": 4},
+    {"name": "mysteryBox", "startTile": 90,  "tiles":[90, 90, 90, 91, 92, 91], "delay": 4},
+    {"name": "SpunchBop", "startTile": 123,  "tiles":[123, 123, 123, 124, 125, 124], "delay": 4},
+    {"name": "run", "startTile": 842, "tiles":[842, 30], "delay": 5},
+    {"name": "run2", "startTile": 843, "tiles":[843, 30], "delay": 5},
+    {"name": "scaredshake", "startTile": 921, "tiles":[921, 30], "delay": 13},
+    {"name": "scaredshake2", "startTile": 922, "tiles":[922, 923], "delay": 13},
+    {"name": "scaredshake3", "startTile": 899, "tiles":[889, 890], "delay": 13},
+    {"name": "idle", "startTile": 823, "tiles":[823, 824], "delay": 6},
+    {"name": "Static1", "startTile": 673, "tiles":[673,675,677,676,678,674,679], "delay": 0},
+    {"name": "Static2", "startTile": 674, "tiles":[673,675,677,676,678,674,679], "delay": 0},
+    {"name": "Static3", "startTile": 675, "tiles":[673,675,677,676,678,674,679], "delay": 0},
+    {"name": "Static4", "startTile": 676, "tiles":[673,675,677,676,678,674,679], "delay": 0},
+    {"name": "Static5", "startTile": 677, "tiles":[673,675,677,676,678,674,679], "delay": 0},
+    {"name": "Static6", "startTile": 678, "tiles":[673,675,677,676,678,674,679], "delay": 0},
+    {"name": "Static7", "startTile": 679, "tiles":[673,675,677,676,678,674,679], "delay": 0}
+  ]
+}
