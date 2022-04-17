@@ -7,7 +7,6 @@
     {"name": "run2", "startTile": 843, "tiles":[843, 30], "delay": 5},
     {"name": "scaredshake", "startTile": 921, "tiles":[921, 30], "delay": 1},
     {"name": "scaredshake2", "startTile": 922, "tiles":[922, 923], "delay": 1},
-    {"name": "scaredshell", "startTile": 889, "tiles":[889,890], "delay": 1},
     {"name": "idle", "startTile": 790, "tiles":[790, 791], "delay": 6},
     {"name": "Static1", "startTile": 673, "tiles":[673,678,677,674,676,675], "delay": 1},
     {"name": "Static2", "startTile": 674, "tiles":[674,675,678,673,677,676], "delay": 1},
@@ -15,6 +14,7 @@
     {"name": "Static4", "startTile": 676, "tiles":[676,679,675,674,678,677,673], "delay": 1},
     {"name": "Static5", "startTile": 677, "tiles":[677,673,674,675,676,678,679], "delay": 1},
     {"name": "Static6", "startTile": 678, "tiles":[678,679,677,674,673,675,676], "delay": 1},
-    {"name": "Static7", "startTile": 679, "tiles":[679,675,674,677,676,678,673], "delay": 1}
+    {"name": "Static7", "startTile": 679, "tiles":[679,675,674,677,676,678,673], "delay": 1},
+    {"name": "shelll", "startTile": 889, "tiles":[889,890], "delay": 1}
   ]
 }
